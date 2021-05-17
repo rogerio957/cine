@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="Cinemax	
+https://lh3.googleusercontent.com/proxy/Vdf-J-UN5lqgD7oenYmlBbXx36uomAip-BAMvIFIFi11h_TZqTCOyCqF5fnNlSGosEZYmD56HspbbCoLS5T0CV4fNTVFi71uilboho7SiB7YsVOBCn8_GmY=s0
